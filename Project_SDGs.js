@@ -10706,7 +10706,7 @@ if (reversed == null) { reversed = false; }
 		                o:["Monokultur masif","Intensif air","Bergantung pupuk kimia","Ketidakamanan pangan"], // Ketidakamanan pangan di D
 		                k:3 });
 		    // DAMPak 3 (No 9) -> k:1 (B)
-		    this.bank.push({ q:"Pemborosan makanan (*food waste*) yang tinggi di tingkat konsumen memiliki dampak negatif pada...",
+		    this.bank.push({ q:"Pemborosan makanan food waste yang tinggi di tingkat konsumen memiliki dampak negatif pada...",
 		                o:["Menaikkan harga pangan","Lingkungan dan sumber daya","Membangun pabrik baru","Meningkatkan impor"], // Lingkungan dan sumber daya di B
 		                k:1 });
 		    // UPAYA 1 (No 10) -> k:2 (C)
@@ -10972,7 +10972,7 @@ if (reversed == null) { reversed = false; }
 		                o:["Ekstensif","Boros","Deforestasi","Hanya untuk kaya"], // Deforestasi di C
 		                k:2 });
 		    // DAMPak 2 (No 68) -> k:1 (B)
-		    this.bank.push({ q:"Dampak dari peningkatan *food waste* (pemborosan makanan) adalah peningkatan emisi...",
+		    this.bank.push({ q:"Dampak dari peningkatan food waste (pemborosan makanan) adalah peningkatan emisi...",
 		                o:["Keseimbangan ekosistem","Gas Metana","Pertumbuhan ekonomi","Peningkatan gizi"], // Metana di B
 		                k:1 });
 		    // DAMPak 3 (No 69) -> k:1 (B)
